@@ -1,0 +1,10 @@
+.editorconfig
+.gcloudignore
+.git
+.github
+.gitignore
+.tool-versions
+.vscode
+biome.json
+README.md
+node_modules/
